@@ -1,5 +1,7 @@
 # loop-kitchen
 
+Assignment: https://loopxyz.notion.site/Take-home-interview-Store-Monitoring-12664a3c7fdf472883a41457f0c9347d
+
 `/trigger_report` endpoint that will trigger report generation from the data provided (stored in DB)
 
 ![image](https://github.com/kuspia/loop-kitchen/assets/63403330/e1656a03-b4a5-4d3d-b7db-60f19335874e)
