@@ -1,6 +1,7 @@
 # loop-kitchen
 
 Assignment: https://loopxyz.notion.site/Take-home-interview-Store-Monitoring-12664a3c7fdf472883a41457f0c9347d
+Demo: https://www.youtube.com/watch?v=NkYvkXqsXKI
 
 ## Installation 
 
