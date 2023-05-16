@@ -23,10 +23,13 @@ The server will start running on http://localhost:5000
 
 `/trigger_report` endpoint that will trigger report generation from the data provided (stored in DB)
 
-![image](https://github.com/kuspia/loop-kitchen/assets/63403330/e1656a03-b4a5-4d3d-b7db-60f19335874e)
+![image](https://github.com/kuspia/loop-kitchen/assets/63403330/e09746a0-64f3-4761-b1e3-f596fd7be8ac)
 
 `/get_report` endpoint that will return the status of the report or the csv
 
-![image](https://github.com/kuspia/loop-kitchen/assets/63403330/0b2c7dd2-2432-40a0-86df-dfa8105da25b)
+![image](https://github.com/kuspia/loop-kitchen/assets/63403330/3d7db446-beaa-4a15-a941-0f5c9df2108c)
 
 After getting completed in few minutes CSV resposne is sent as shown:
+
+![Uploading image.png…]()
+
