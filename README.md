@@ -31,5 +31,5 @@ The server will start running on http://localhost:5000
 
 After getting completed in few minutes CSV resposne is sent as shown:
 
-![Uploading image.png…]()
+![image](https://github.com/kuspia/loop-kitchen/assets/63403330/0a37aa12-fb09-4d72-8820-b5792c80bea6)
 
